@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\bin\Debug\netcoreapp2.0\Insert-line-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\bin\Debug\netcoreapp2.0\Insert-line-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\bin\Debug\netcoreapp2.0\Insert-line-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\bin\Debug\netcoreapp2.0\Insert-line-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\bin\Debug\netcoreapp2.0\Insert-line-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\obj\Debug\netcoreapp2.0\Insert-line-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\obj\Debug\netcoreapp2.0\Insert-line-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\obj\Debug\netcoreapp2.0\Insert-line-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\obj\Debug\netcoreapp2.0\Insert-line-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\obj\Debug\netcoreapp2.0\Insert-line-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Insert-line-numbers\obj\Debug\netcoreapp2.0\Insert-line-numbers.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\bin\Debug\netcoreapp2.0\05. Character-stats.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\bin\Debug\netcoreapp2.0\05. Character-stats.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\bin\Debug\netcoreapp2.0\05. Character-stats.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\bin\Debug\netcoreapp2.0\05. Character-stats.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\bin\Debug\netcoreapp2.0\05. Character-stats.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\obj\Debug\netcoreapp2.0\05. Character-stats.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\obj\Debug\netcoreapp2.0\05. Character-stats.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\obj\Debug\netcoreapp2.0\05. Character-stats.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\obj\Debug\netcoreapp2.0\05. Character-stats.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\obj\Debug\netcoreapp2.0\05. Character-stats.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\05. Character-stats\obj\Debug\netcoreapp2.0\05. Character-stats.pdb

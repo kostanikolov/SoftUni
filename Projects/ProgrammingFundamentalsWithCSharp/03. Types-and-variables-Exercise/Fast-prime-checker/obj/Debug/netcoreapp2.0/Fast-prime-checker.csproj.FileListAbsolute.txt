@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\bin\Debug\netcoreapp2.0\Fast-prime-checker.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\bin\Debug\netcoreapp2.0\Fast-prime-checker.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\bin\Debug\netcoreapp2.0\Fast-prime-checker.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\bin\Debug\netcoreapp2.0\Fast-prime-checker.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\bin\Debug\netcoreapp2.0\Fast-prime-checker.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\obj\Debug\netcoreapp2.0\Fast-prime-checker.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\obj\Debug\netcoreapp2.0\Fast-prime-checker.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\obj\Debug\netcoreapp2.0\Fast-prime-checker.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\obj\Debug\netcoreapp2.0\Fast-prime-checker.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\obj\Debug\netcoreapp2.0\Fast-prime-checker.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Fast-prime-checker\obj\Debug\netcoreapp2.0\Fast-prime-checker.pdb

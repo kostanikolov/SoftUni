@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\bin\Debug\netcoreapp2.0\Special-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\bin\Debug\netcoreapp2.0\Special-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\bin\Debug\netcoreapp2.0\Special-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\bin\Debug\netcoreapp2.0\Special-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\bin\Debug\netcoreapp2.0\Special-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\obj\Debug\netcoreapp2.0\Special-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\obj\Debug\netcoreapp2.0\Special-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\obj\Debug\netcoreapp2.0\Special-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\obj\Debug\netcoreapp2.0\Special-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\obj\Debug\netcoreapp2.0\Special-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Special-numbers\obj\Debug\netcoreapp2.0\Special-numbers.pdb

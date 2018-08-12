@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\bin\Debug\netcoreapp2.0\Calories-counter.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\bin\Debug\netcoreapp2.0\Calories-counter.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\bin\Debug\netcoreapp2.0\Calories-counter.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\bin\Debug\netcoreapp2.0\Calories-counter.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\bin\Debug\netcoreapp2.0\Calories-counter.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\obj\Debug\netcoreapp2.0\Calories-counter.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\obj\Debug\netcoreapp2.0\Calories-counter.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\obj\Debug\netcoreapp2.0\Calories-counter.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\obj\Debug\netcoreapp2.0\Calories-counter.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Calories-counter\obj\Debug\netcoreapp2.0\Calories-counter.pdb

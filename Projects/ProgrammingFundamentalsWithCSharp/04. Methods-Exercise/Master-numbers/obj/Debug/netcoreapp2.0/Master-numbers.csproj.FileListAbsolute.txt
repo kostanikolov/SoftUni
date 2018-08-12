@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\bin\Debug\netcoreapp2.0\Master-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\bin\Debug\netcoreapp2.0\Master-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\bin\Debug\netcoreapp2.0\Master-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\bin\Debug\netcoreapp2.0\Master-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\bin\Debug\netcoreapp2.0\Master-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\obj\Debug\netcoreapp2.0\Master-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\obj\Debug\netcoreapp2.0\Master-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\obj\Debug\netcoreapp2.0\Master-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\obj\Debug\netcoreapp2.0\Master-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\obj\Debug\netcoreapp2.0\Master-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Master-numbers\obj\Debug\netcoreapp2.0\Master-numbers.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\bin\Debug\netcoreapp2.0\Circle-area-12-digit-precision.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\bin\Debug\netcoreapp2.0\Circle-area-12-digit-precision.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\bin\Debug\netcoreapp2.0\Circle-area-12-digit-precision.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\bin\Debug\netcoreapp2.0\Circle-area-12-digit-precision.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\bin\Debug\netcoreapp2.0\Circle-area-12-digit-precision.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\obj\Debug\netcoreapp2.0\Circle-area-12-digit-precision.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\obj\Debug\netcoreapp2.0\Circle-area-12-digit-precision.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\obj\Debug\netcoreapp2.0\Circle-area-12-digit-precision.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\obj\Debug\netcoreapp2.0\Circle-area-12-digit-precision.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\obj\Debug\netcoreapp2.0\Circle-area-12-digit-precision.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Circle-area-12-digit-precision\obj\Debug\netcoreapp2.0\Circle-area-12-digit-precision.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\bin\Debug\netcoreapp2.0\Prime-checker.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\bin\Debug\netcoreapp2.0\Prime-checker.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\bin\Debug\netcoreapp2.0\Prime-checker.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\bin\Debug\netcoreapp2.0\Prime-checker.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\bin\Debug\netcoreapp2.0\Prime-checker.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\obj\Debug\netcoreapp2.0\Prime-checker.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\obj\Debug\netcoreapp2.0\Prime-checker.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\obj\Debug\netcoreapp2.0\Prime-checker.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\obj\Debug\netcoreapp2.0\Prime-checker.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\obj\Debug\netcoreapp2.0\Prime-checker.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Prime-checker\obj\Debug\netcoreapp2.0\Prime-checker.csprojResolveAssemblyReference.cache

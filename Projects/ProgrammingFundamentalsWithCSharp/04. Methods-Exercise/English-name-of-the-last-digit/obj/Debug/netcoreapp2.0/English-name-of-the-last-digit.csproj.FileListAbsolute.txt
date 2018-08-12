@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\bin\Debug\netcoreapp2.0\English-name-of-the-last-digit.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\bin\Debug\netcoreapp2.0\English-name-of-the-last-digit.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\bin\Debug\netcoreapp2.0\English-name-of-the-last-digit.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\bin\Debug\netcoreapp2.0\English-name-of-the-last-digit.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\bin\Debug\netcoreapp2.0\English-name-of-the-last-digit.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\obj\Debug\netcoreapp2.0\English-name-of-the-last-digit.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\obj\Debug\netcoreapp2.0\English-name-of-the-last-digit.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\obj\Debug\netcoreapp2.0\English-name-of-the-last-digit.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\obj\Debug\netcoreapp2.0\English-name-of-the-last-digit.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\obj\Debug\netcoreapp2.0\English-name-of-the-last-digit.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\English-name-of-the-last-digit\obj\Debug\netcoreapp2.0\English-name-of-the-last-digit.pdb

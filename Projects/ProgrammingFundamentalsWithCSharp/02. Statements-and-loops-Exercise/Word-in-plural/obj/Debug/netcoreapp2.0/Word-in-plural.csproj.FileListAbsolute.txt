@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\obj\Debug\netcoreapp2.0\Word-in-plural.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\obj\Debug\netcoreapp2.0\Word-in-plural.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\obj\Debug\netcoreapp2.0\Word-in-plural.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\obj\Debug\netcoreapp2.0\Word-in-plural.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\bin\Debug\netcoreapp2.0\Word-in-plural.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\bin\Debug\netcoreapp2.0\Word-in-plural.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\bin\Debug\netcoreapp2.0\Word-in-plural.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\bin\Debug\netcoreapp2.0\Word-in-plural.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\bin\Debug\netcoreapp2.0\Word-in-plural.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\obj\Debug\netcoreapp2.0\Word-in-plural.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Word-in-plural\obj\Debug\netcoreapp2.0\Word-in-plural.pdb

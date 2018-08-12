@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\bin\Debug\netcoreapp2.0\Text-filter.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\bin\Debug\netcoreapp2.0\Text-filter.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\bin\Debug\netcoreapp2.0\Text-filter.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\bin\Debug\netcoreapp2.0\Text-filter.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\bin\Debug\netcoreapp2.0\Text-filter.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\obj\Debug\netcoreapp2.0\Text-filter.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\obj\Debug\netcoreapp2.0\Text-filter.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\obj\Debug\netcoreapp2.0\Text-filter.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\obj\Debug\netcoreapp2.0\Text-filter.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\obj\Debug\netcoreapp2.0\Text-filter.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Text-filter\obj\Debug\netcoreapp2.0\Text-filter.pdb

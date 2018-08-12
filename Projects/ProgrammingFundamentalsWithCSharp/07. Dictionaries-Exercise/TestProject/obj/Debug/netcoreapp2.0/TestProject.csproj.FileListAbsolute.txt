@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\bin\Debug\netcoreapp2.0\TestProject.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\bin\Debug\netcoreapp2.0\TestProject.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\bin\Debug\netcoreapp2.0\TestProject.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\obj\Debug\netcoreapp2.0\TestProject.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\obj\Debug\netcoreapp2.0\TestProject.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\TestProject\obj\Debug\netcoreapp2.0\TestProject.pdb

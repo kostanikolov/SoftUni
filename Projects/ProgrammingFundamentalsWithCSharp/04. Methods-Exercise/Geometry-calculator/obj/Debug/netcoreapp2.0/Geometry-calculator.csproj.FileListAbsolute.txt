@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\bin\Debug\netcoreapp2.0\Geometry-calculator.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\bin\Debug\netcoreapp2.0\Geometry-calculator.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\bin\Debug\netcoreapp2.0\Geometry-calculator.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\bin\Debug\netcoreapp2.0\Geometry-calculator.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\bin\Debug\netcoreapp2.0\Geometry-calculator.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\obj\Debug\netcoreapp2.0\Geometry-calculator.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\obj\Debug\netcoreapp2.0\Geometry-calculator.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\obj\Debug\netcoreapp2.0\Geometry-calculator.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\obj\Debug\netcoreapp2.0\Geometry-calculator.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\obj\Debug\netcoreapp2.0\Geometry-calculator.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Geometry-calculator\obj\Debug\netcoreapp2.0\Geometry-calculator.pdb

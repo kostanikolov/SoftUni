@@ -1,0 +1,8 @@
+﻿Hello, world!
+My name is Kosta.
+How are you?
+Great.
+I am good!
+How about you?
+I am okay too!
+Thanks

@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\bin\Debug\netcoreapp2.0\Employee-data.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\bin\Debug\netcoreapp2.0\Employee-data.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\bin\Debug\netcoreapp2.0\Employee-data.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\bin\Debug\netcoreapp2.0\Employee-data.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\bin\Debug\netcoreapp2.0\Employee-data.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\obj\Debug\netcoreapp2.0\Employee-data.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\obj\Debug\netcoreapp2.0\Employee-data.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\obj\Debug\netcoreapp2.0\Employee-data.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\obj\Debug\netcoreapp2.0\Employee-data.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Employee-data\obj\Debug\netcoreapp2.0\Employee-data.pdb

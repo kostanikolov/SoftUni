@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\bin\Debug\netcoreapp2.0\01. Debit-card-number.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\bin\Debug\netcoreapp2.0\01. Debit-card-number.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\bin\Debug\netcoreapp2.0\01. Debit-card-number.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\bin\Debug\netcoreapp2.0\01. Debit-card-number.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\bin\Debug\netcoreapp2.0\01. Debit-card-number.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\obj\Debug\netcoreapp2.0\01. Debit-card-number.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\obj\Debug\netcoreapp2.0\01. Debit-card-number.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\obj\Debug\netcoreapp2.0\01. Debit-card-number.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\obj\Debug\netcoreapp2.0\01. Debit-card-number.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\obj\Debug\netcoreapp2.0\01. Debit-card-number.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\01. Debit-card-number\obj\Debug\netcoreapp2.0\01. Debit-card-number.pdb

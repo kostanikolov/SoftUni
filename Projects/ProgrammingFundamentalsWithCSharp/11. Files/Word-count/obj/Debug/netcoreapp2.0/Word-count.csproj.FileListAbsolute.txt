@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\bin\Debug\netcoreapp2.0\Word-count.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\bin\Debug\netcoreapp2.0\Word-count.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\bin\Debug\netcoreapp2.0\Word-count.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\bin\Debug\netcoreapp2.0\Word-count.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\bin\Debug\netcoreapp2.0\Word-count.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\obj\Debug\netcoreapp2.0\Word-count.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\obj\Debug\netcoreapp2.0\Word-count.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\obj\Debug\netcoreapp2.0\Word-count.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\obj\Debug\netcoreapp2.0\Word-count.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\obj\Debug\netcoreapp2.0\Word-count.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Word-count\obj\Debug\netcoreapp2.0\Word-count.pdb

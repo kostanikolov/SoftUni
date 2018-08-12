@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\bin\Debug\netcoreapp2.0\Compare-char-arrays.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\bin\Debug\netcoreapp2.0\Compare-char-arrays.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\bin\Debug\netcoreapp2.0\Compare-char-arrays.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\bin\Debug\netcoreapp2.0\Compare-char-arrays.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\bin\Debug\netcoreapp2.0\Compare-char-arrays.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\obj\Debug\netcoreapp2.0\Compare-char-arrays.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\obj\Debug\netcoreapp2.0\Compare-char-arrays.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\obj\Debug\netcoreapp2.0\Compare-char-arrays.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\obj\Debug\netcoreapp2.0\Compare-char-arrays.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\obj\Debug\netcoreapp2.0\Compare-char-arrays.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Compare-char-arrays\obj\Debug\netcoreapp2.0\Compare-char-arrays.pdb

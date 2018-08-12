@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\bin\Debug\netcoreapp2.0\Cube-properties.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\bin\Debug\netcoreapp2.0\Cube-properties.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\bin\Debug\netcoreapp2.0\Cube-properties.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\bin\Debug\netcoreapp2.0\Cube-properties.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\bin\Debug\netcoreapp2.0\Cube-properties.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\obj\Debug\netcoreapp2.0\Cube-properties.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\obj\Debug\netcoreapp2.0\Cube-properties.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\obj\Debug\netcoreapp2.0\Cube-properties.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\obj\Debug\netcoreapp2.0\Cube-properties.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\obj\Debug\netcoreapp2.0\Cube-properties.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Cube-properties\obj\Debug\netcoreapp2.0\Cube-properties.pdb

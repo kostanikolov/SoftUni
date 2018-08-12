@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\bin\Debug\netcoreapp2.0\Draw-filled-square.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\bin\Debug\netcoreapp2.0\Draw-filled-square.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\bin\Debug\netcoreapp2.0\Draw-filled-square.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\bin\Debug\netcoreapp2.0\Draw-filled-square.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\bin\Debug\netcoreapp2.0\Draw-filled-square.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\obj\Debug\netcoreapp2.0\Draw-filled-square.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\obj\Debug\netcoreapp2.0\Draw-filled-square.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\obj\Debug\netcoreapp2.0\Draw-filled-square.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\obj\Debug\netcoreapp2.0\Draw-filled-square.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\obj\Debug\netcoreapp2.0\Draw-filled-square.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Draw-filled-square\obj\Debug\netcoreapp2.0\Draw-filled-square.pdb

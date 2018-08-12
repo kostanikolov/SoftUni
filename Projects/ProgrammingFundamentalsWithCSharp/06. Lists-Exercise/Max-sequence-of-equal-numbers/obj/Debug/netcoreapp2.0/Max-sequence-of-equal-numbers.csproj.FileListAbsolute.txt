@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Max-sequence-of-equal-numbers\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-numbers.pdb

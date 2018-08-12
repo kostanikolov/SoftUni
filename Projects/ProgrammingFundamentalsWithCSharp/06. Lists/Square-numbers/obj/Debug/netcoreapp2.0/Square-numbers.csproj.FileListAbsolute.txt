@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\bin\Debug\netcoreapp2.0\Square-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\bin\Debug\netcoreapp2.0\Square-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\bin\Debug\netcoreapp2.0\Square-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\bin\Debug\netcoreapp2.0\Square-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\bin\Debug\netcoreapp2.0\Square-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\obj\Debug\netcoreapp2.0\Square-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\obj\Debug\netcoreapp2.0\Square-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\obj\Debug\netcoreapp2.0\Square-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\obj\Debug\netcoreapp2.0\Square-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\obj\Debug\netcoreapp2.0\Square-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Square-numbers\obj\Debug\netcoreapp2.0\Square-numbers.pdb

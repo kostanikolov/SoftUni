@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\bin\Debug\netcoreapp2.0\Triangle-of-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\bin\Debug\netcoreapp2.0\Triangle-of-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\bin\Debug\netcoreapp2.0\Triangle-of-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\bin\Debug\netcoreapp2.0\Triangle-of-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\bin\Debug\netcoreapp2.0\Triangle-of-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\obj\Debug\netcoreapp2.0\Triangle-of-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\obj\Debug\netcoreapp2.0\Triangle-of-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\obj\Debug\netcoreapp2.0\Triangle-of-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\obj\Debug\netcoreapp2.0\Triangle-of-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\obj\Debug\netcoreapp2.0\Triangle-of-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Triangle-of-numbers\obj\Debug\netcoreapp2.0\Triangle-of-numbers.pdb

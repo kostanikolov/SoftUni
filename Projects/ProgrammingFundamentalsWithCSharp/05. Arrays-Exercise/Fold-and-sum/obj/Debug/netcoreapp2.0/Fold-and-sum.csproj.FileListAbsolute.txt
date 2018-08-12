@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\bin\Debug\netcoreapp2.0\Fold-and-sum.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\bin\Debug\netcoreapp2.0\Fold-and-sum.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\bin\Debug\netcoreapp2.0\Fold-and-sum.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\bin\Debug\netcoreapp2.0\Fold-and-sum.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\bin\Debug\netcoreapp2.0\Fold-and-sum.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\obj\Debug\netcoreapp2.0\Fold-and-sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\obj\Debug\netcoreapp2.0\Fold-and-sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\obj\Debug\netcoreapp2.0\Fold-and-sum.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\obj\Debug\netcoreapp2.0\Fold-and-sum.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\obj\Debug\netcoreapp2.0\Fold-and-sum.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Fold-and-sum\obj\Debug\netcoreapp2.0\Fold-and-sum.pdb

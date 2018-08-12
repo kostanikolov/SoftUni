@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\bin\Debug\netcoreapp2.0\Price-change-alert.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\bin\Debug\netcoreapp2.0\Price-change-alert.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\bin\Debug\netcoreapp2.0\Price-change-alert.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\bin\Debug\netcoreapp2.0\Price-change-alert.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\bin\Debug\netcoreapp2.0\Price-change-alert.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\obj\Debug\netcoreapp2.0\Price-change-alert.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\obj\Debug\netcoreapp2.0\Price-change-alert.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\obj\Debug\netcoreapp2.0\Price-change-alert.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\obj\Debug\netcoreapp2.0\Price-change-alert.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\obj\Debug\netcoreapp2.0\Price-change-alert.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Price-change-alert\obj\Debug\netcoreapp2.0\Price-change-alert.pdb

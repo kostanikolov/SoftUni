@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\bin\Debug\netcoreapp2.0\Change-list.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\bin\Debug\netcoreapp2.0\Change-list.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\bin\Debug\netcoreapp2.0\Change-list.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\bin\Debug\netcoreapp2.0\Change-list.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\bin\Debug\netcoreapp2.0\Change-list.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\obj\Debug\netcoreapp2.0\Change-list.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\obj\Debug\netcoreapp2.0\Change-list.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\obj\Debug\netcoreapp2.0\Change-list.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\obj\Debug\netcoreapp2.0\Change-list.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\obj\Debug\netcoreapp2.0\Change-list.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Change-list\obj\Debug\netcoreapp2.0\Change-list.pdb

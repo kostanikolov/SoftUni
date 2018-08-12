@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-equal-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-equal-elements.pdb

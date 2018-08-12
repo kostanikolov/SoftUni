@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\bin\Debug\netcoreapp2.0\Bomb-number.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\bin\Debug\netcoreapp2.0\Bomb-number.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\bin\Debug\netcoreapp2.0\Bomb-number.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\bin\Debug\netcoreapp2.0\Bomb-number.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\bin\Debug\netcoreapp2.0\Bomb-number.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\obj\Debug\netcoreapp2.0\Bomb-number.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\obj\Debug\netcoreapp2.0\Bomb-number.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\obj\Debug\netcoreapp2.0\Bomb-number.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\obj\Debug\netcoreapp2.0\Bomb-number.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\obj\Debug\netcoreapp2.0\Bomb-number.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists-Exercise\Bomb-number\obj\Debug\netcoreapp2.0\Bomb-number.pdb

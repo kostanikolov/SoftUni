@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\bin\Debug\netcoreapp2.0\Character-multiplier.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\bin\Debug\netcoreapp2.0\Character-multiplier.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\bin\Debug\netcoreapp2.0\Character-multiplier.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\bin\Debug\netcoreapp2.0\Character-multiplier.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\bin\Debug\netcoreapp2.0\Character-multiplier.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\obj\Debug\netcoreapp2.0\Character-multiplier.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\obj\Debug\netcoreapp2.0\Character-multiplier.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\obj\Debug\netcoreapp2.0\Character-multiplier.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\obj\Debug\netcoreapp2.0\Character-multiplier.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\obj\Debug\netcoreapp2.0\Character-multiplier.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Character-multiplier\obj\Debug\netcoreapp2.0\Character-multiplier.pdb

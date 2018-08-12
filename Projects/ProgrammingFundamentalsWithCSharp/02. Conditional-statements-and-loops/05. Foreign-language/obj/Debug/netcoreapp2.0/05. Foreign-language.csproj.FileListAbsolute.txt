@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\bin\Debug\netcoreapp2.0\05. Foreign-language.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\bin\Debug\netcoreapp2.0\05. Foreign-language.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\bin\Debug\netcoreapp2.0\05. Foreign-language.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\bin\Debug\netcoreapp2.0\05. Foreign-language.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\bin\Debug\netcoreapp2.0\05. Foreign-language.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\obj\Debug\netcoreapp2.0\05. Foreign-language.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\obj\Debug\netcoreapp2.0\05. Foreign-language.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\obj\Debug\netcoreapp2.0\05. Foreign-language.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\obj\Debug\netcoreapp2.0\05. Foreign-language.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\obj\Debug\netcoreapp2.0\05. Foreign-language.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\05. Foreign-language\obj\Debug\netcoreapp2.0\05. Foreign-language.pdb

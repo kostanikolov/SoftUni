@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\bin\Debug\netcoreapp2.0\03. Back-in-30-minutes.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\bin\Debug\netcoreapp2.0\03. Back-in-30-minutes.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\bin\Debug\netcoreapp2.0\03. Back-in-30-minutes.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\bin\Debug\netcoreapp2.0\03. Back-in-30-minutes.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\bin\Debug\netcoreapp2.0\03. Back-in-30-minutes.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\obj\Debug\netcoreapp2.0\03. Back-in-30-minutes.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\obj\Debug\netcoreapp2.0\03. Back-in-30-minutes.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\obj\Debug\netcoreapp2.0\03. Back-in-30-minutes.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\obj\Debug\netcoreapp2.0\03. Back-in-30-minutes.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\obj\Debug\netcoreapp2.0\03. Back-in-30-minutes.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\03. Back-in-30-minutes\obj\Debug\netcoreapp2.0\03. Back-in-30-minutes.pdb

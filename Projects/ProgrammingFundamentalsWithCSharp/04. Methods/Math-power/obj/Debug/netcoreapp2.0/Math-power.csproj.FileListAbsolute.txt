@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\bin\Debug\netcoreapp2.0\Math-power.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\bin\Debug\netcoreapp2.0\Math-power.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\bin\Debug\netcoreapp2.0\Math-power.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\bin\Debug\netcoreapp2.0\Math-power.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\bin\Debug\netcoreapp2.0\Math-power.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\obj\Debug\netcoreapp2.0\Math-power.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\obj\Debug\netcoreapp2.0\Math-power.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\obj\Debug\netcoreapp2.0\Math-power.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\obj\Debug\netcoreapp2.0\Math-power.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\obj\Debug\netcoreapp2.0\Math-power.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Math-power\obj\Debug\netcoreapp2.0\Math-power.pdb

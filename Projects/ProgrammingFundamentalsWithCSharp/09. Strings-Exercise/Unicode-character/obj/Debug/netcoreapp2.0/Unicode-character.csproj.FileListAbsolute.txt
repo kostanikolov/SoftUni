@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\bin\Debug\netcoreapp2.0\Unicode-character.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\bin\Debug\netcoreapp2.0\Unicode-character.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\bin\Debug\netcoreapp2.0\Unicode-character.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\bin\Debug\netcoreapp2.0\Unicode-character.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\bin\Debug\netcoreapp2.0\Unicode-character.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\obj\Debug\netcoreapp2.0\Unicode-character.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\obj\Debug\netcoreapp2.0\Unicode-character.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\obj\Debug\netcoreapp2.0\Unicode-character.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\obj\Debug\netcoreapp2.0\Unicode-character.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\obj\Debug\netcoreapp2.0\Unicode-character.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Unicode-character\obj\Debug\netcoreapp2.0\Unicode-character.pdb

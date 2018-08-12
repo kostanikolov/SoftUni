@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\bin\Debug\netcoreapp2.0\Base-N-to-base-10.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\bin\Debug\netcoreapp2.0\Base-N-to-base-10.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\bin\Debug\netcoreapp2.0\Base-N-to-base-10.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\bin\Debug\netcoreapp2.0\Base-N-to-base-10.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\bin\Debug\netcoreapp2.0\Base-N-to-base-10.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\obj\Debug\netcoreapp2.0\Base-N-to-base-10.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\obj\Debug\netcoreapp2.0\Base-N-to-base-10.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\obj\Debug\netcoreapp2.0\Base-N-to-base-10.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\obj\Debug\netcoreapp2.0\Base-N-to-base-10.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\obj\Debug\netcoreapp2.0\Base-N-to-base-10.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Base-N-to-base-10\obj\Debug\netcoreapp2.0\Base-N-to-base-10.pdb

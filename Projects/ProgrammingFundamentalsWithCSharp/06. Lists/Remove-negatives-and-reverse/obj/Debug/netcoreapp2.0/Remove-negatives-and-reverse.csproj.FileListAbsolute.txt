@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\bin\Debug\netcoreapp2.0\Remove-negatives-and-reverse.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\bin\Debug\netcoreapp2.0\Remove-negatives-and-reverse.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\bin\Debug\netcoreapp2.0\Remove-negatives-and-reverse.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\bin\Debug\netcoreapp2.0\Remove-negatives-and-reverse.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\bin\Debug\netcoreapp2.0\Remove-negatives-and-reverse.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\obj\Debug\netcoreapp2.0\Remove-negatives-and-reverse.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\obj\Debug\netcoreapp2.0\Remove-negatives-and-reverse.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\obj\Debug\netcoreapp2.0\Remove-negatives-and-reverse.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\obj\Debug\netcoreapp2.0\Remove-negatives-and-reverse.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\obj\Debug\netcoreapp2.0\Remove-negatives-and-reverse.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Remove-negatives-and-reverse\obj\Debug\netcoreapp2.0\Remove-negatives-and-reverse.pdb

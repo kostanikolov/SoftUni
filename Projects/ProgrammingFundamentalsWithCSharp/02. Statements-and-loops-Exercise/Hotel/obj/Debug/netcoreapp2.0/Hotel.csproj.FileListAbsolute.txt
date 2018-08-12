@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\bin\Debug\netcoreapp2.0\Hotel.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\bin\Debug\netcoreapp2.0\Hotel.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\bin\Debug\netcoreapp2.0\Hotel.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\obj\Debug\netcoreapp2.0\Hotel.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\obj\Debug\netcoreapp2.0\Hotel.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\obj\Debug\netcoreapp2.0\Hotel.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Hotel\obj\Debug\netcoreapp2.0\Hotel.pdb

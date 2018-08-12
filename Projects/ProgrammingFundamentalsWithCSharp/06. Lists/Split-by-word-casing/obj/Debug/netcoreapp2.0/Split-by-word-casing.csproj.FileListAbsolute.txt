@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\bin\Debug\netcoreapp2.0\Split-by-word-casing.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\bin\Debug\netcoreapp2.0\Split-by-word-casing.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\bin\Debug\netcoreapp2.0\Split-by-word-casing.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\bin\Debug\netcoreapp2.0\Split-by-word-casing.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\bin\Debug\netcoreapp2.0\Split-by-word-casing.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\obj\Debug\netcoreapp2.0\Split-by-word-casing.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\obj\Debug\netcoreapp2.0\Split-by-word-casing.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\obj\Debug\netcoreapp2.0\Split-by-word-casing.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\obj\Debug\netcoreapp2.0\Split-by-word-casing.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\obj\Debug\netcoreapp2.0\Split-by-word-casing.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Split-by-word-casing\obj\Debug\netcoreapp2.0\Split-by-word-casing.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\bin\Debug\netcoreapp2.0\Sort-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\bin\Debug\netcoreapp2.0\Sort-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\bin\Debug\netcoreapp2.0\Sort-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\bin\Debug\netcoreapp2.0\Sort-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\bin\Debug\netcoreapp2.0\Sort-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\obj\Debug\netcoreapp2.0\Sort-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\obj\Debug\netcoreapp2.0\Sort-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\obj\Debug\netcoreapp2.0\Sort-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\obj\Debug\netcoreapp2.0\Sort-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\obj\Debug\netcoreapp2.0\Sort-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Sort-numbers\obj\Debug\netcoreapp2.0\Sort-numbers.pdb

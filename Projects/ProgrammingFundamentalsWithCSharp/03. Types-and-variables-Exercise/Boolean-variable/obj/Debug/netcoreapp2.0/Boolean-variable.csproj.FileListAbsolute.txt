@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\bin\Debug\netcoreapp2.0\Boolean-variable.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\bin\Debug\netcoreapp2.0\Boolean-variable.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\bin\Debug\netcoreapp2.0\Boolean-variable.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\bin\Debug\netcoreapp2.0\Boolean-variable.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\bin\Debug\netcoreapp2.0\Boolean-variable.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\obj\Debug\netcoreapp2.0\Boolean-variable.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\obj\Debug\netcoreapp2.0\Boolean-variable.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\obj\Debug\netcoreapp2.0\Boolean-variable.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\obj\Debug\netcoreapp2.0\Boolean-variable.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Boolean-variable\obj\Debug\netcoreapp2.0\Boolean-variable.pdb

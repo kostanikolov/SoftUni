@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\obj\Debug\netcoreapp2.0\Test-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\obj\Debug\netcoreapp2.0\Test-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\obj\Debug\netcoreapp2.0\Test-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\obj\Debug\netcoreapp2.0\Test-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\bin\Debug\netcoreapp2.0\Test-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\bin\Debug\netcoreapp2.0\Test-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\bin\Debug\netcoreapp2.0\Test-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\bin\Debug\netcoreapp2.0\Test-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\bin\Debug\netcoreapp2.0\Test-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\obj\Debug\netcoreapp2.0\Test-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Test-numbers\obj\Debug\netcoreapp2.0\Test-numbers.pdb

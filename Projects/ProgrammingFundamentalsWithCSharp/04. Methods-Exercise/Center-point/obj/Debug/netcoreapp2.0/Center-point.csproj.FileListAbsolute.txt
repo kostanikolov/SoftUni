@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\bin\Debug\netcoreapp2.0\Center-point.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\bin\Debug\netcoreapp2.0\Center-point.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\bin\Debug\netcoreapp2.0\Center-point.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\bin\Debug\netcoreapp2.0\Center-point.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\bin\Debug\netcoreapp2.0\Center-point.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\obj\Debug\netcoreapp2.0\Center-point.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\obj\Debug\netcoreapp2.0\Center-point.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\obj\Debug\netcoreapp2.0\Center-point.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\obj\Debug\netcoreapp2.0\Center-point.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\obj\Debug\netcoreapp2.0\Center-point.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Center-point\obj\Debug\netcoreapp2.0\Center-point.pdb

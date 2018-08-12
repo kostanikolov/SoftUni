@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\bin\Debug\netcoreapp2.0\Variables-and-hex-format.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\bin\Debug\netcoreapp2.0\Variables-and-hex-format.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\bin\Debug\netcoreapp2.0\Variables-and-hex-format.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\bin\Debug\netcoreapp2.0\Variables-and-hex-format.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\bin\Debug\netcoreapp2.0\Variables-and-hex-format.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\obj\Debug\netcoreapp2.0\Variables-and-hex-format.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\obj\Debug\netcoreapp2.0\Variables-and-hex-format.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\obj\Debug\netcoreapp2.0\Variables-and-hex-format.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\obj\Debug\netcoreapp2.0\Variables-and-hex-format.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\obj\Debug\netcoreapp2.0\Variables-and-hex-format.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Variables-and-hex-format\obj\Debug\netcoreapp2.0\Variables-and-hex-format.pdb

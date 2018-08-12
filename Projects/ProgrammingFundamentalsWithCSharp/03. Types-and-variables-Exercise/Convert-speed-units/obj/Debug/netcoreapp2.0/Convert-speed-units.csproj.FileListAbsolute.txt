@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\bin\Debug\netcoreapp2.0\Convert-speed-units.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\bin\Debug\netcoreapp2.0\Convert-speed-units.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\bin\Debug\netcoreapp2.0\Convert-speed-units.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\bin\Debug\netcoreapp2.0\Convert-speed-units.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\bin\Debug\netcoreapp2.0\Convert-speed-units.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\obj\Debug\netcoreapp2.0\Convert-speed-units.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\obj\Debug\netcoreapp2.0\Convert-speed-units.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\obj\Debug\netcoreapp2.0\Convert-speed-units.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\obj\Debug\netcoreapp2.0\Convert-speed-units.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\obj\Debug\netcoreapp2.0\Convert-speed-units.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Convert-speed-units\obj\Debug\netcoreapp2.0\Convert-speed-units.csprojResolveAssemblyReference.cache

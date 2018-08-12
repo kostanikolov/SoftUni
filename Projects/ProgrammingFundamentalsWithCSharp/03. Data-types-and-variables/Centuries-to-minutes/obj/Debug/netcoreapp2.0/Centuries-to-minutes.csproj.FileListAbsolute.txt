@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\bin\Debug\netcoreapp2.0\Centuries-to-minutes.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\bin\Debug\netcoreapp2.0\Centuries-to-minutes.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\bin\Debug\netcoreapp2.0\Centuries-to-minutes.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\bin\Debug\netcoreapp2.0\Centuries-to-minutes.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\bin\Debug\netcoreapp2.0\Centuries-to-minutes.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\obj\Debug\netcoreapp2.0\Centuries-to-minutes.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\obj\Debug\netcoreapp2.0\Centuries-to-minutes.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\obj\Debug\netcoreapp2.0\Centuries-to-minutes.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\obj\Debug\netcoreapp2.0\Centuries-to-minutes.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\obj\Debug\netcoreapp2.0\Centuries-to-minutes.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Centuries-to-minutes\obj\Debug\netcoreapp2.0\Centuries-to-minutes.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\bin\Debug\netcoreapp2.0\Big-factorial.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\bin\Debug\netcoreapp2.0\Big-factorial.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\bin\Debug\netcoreapp2.0\Big-factorial.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\bin\Debug\netcoreapp2.0\Big-factorial.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\bin\Debug\netcoreapp2.0\Big-factorial.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\obj\Debug\netcoreapp2.0\Big-factorial.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\obj\Debug\netcoreapp2.0\Big-factorial.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\obj\Debug\netcoreapp2.0\Big-factorial.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\obj\Debug\netcoreapp2.0\Big-factorial.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\obj\Debug\netcoreapp2.0\Big-factorial.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Big-factorial\obj\Debug\netcoreapp2.0\Big-factorial.pdb

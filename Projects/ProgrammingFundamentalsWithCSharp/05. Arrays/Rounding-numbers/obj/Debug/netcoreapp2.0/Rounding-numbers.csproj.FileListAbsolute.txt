@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\bin\Debug\netcoreapp2.0\Rounding-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\bin\Debug\netcoreapp2.0\Rounding-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\bin\Debug\netcoreapp2.0\Rounding-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\bin\Debug\netcoreapp2.0\Rounding-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\bin\Debug\netcoreapp2.0\Rounding-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\obj\Debug\netcoreapp2.0\Rounding-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\obj\Debug\netcoreapp2.0\Rounding-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\obj\Debug\netcoreapp2.0\Rounding-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\obj\Debug\netcoreapp2.0\Rounding-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\obj\Debug\netcoreapp2.0\Rounding-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Rounding-numbers\obj\Debug\netcoreapp2.0\Rounding-numbers.pdb

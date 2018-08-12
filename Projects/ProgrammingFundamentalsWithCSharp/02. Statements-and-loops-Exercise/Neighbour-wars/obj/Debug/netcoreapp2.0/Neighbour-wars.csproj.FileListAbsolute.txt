@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\bin\Debug\netcoreapp2.0\Neighbour-wars.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\bin\Debug\netcoreapp2.0\Neighbour-wars.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\bin\Debug\netcoreapp2.0\Neighbour-wars.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\bin\Debug\netcoreapp2.0\Neighbour-wars.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\bin\Debug\netcoreapp2.0\Neighbour-wars.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\obj\Debug\netcoreapp2.0\Neighbour-wars.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\obj\Debug\netcoreapp2.0\Neighbour-wars.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\obj\Debug\netcoreapp2.0\Neighbour-wars.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\obj\Debug\netcoreapp2.0\Neighbour-wars.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\obj\Debug\netcoreapp2.0\Neighbour-wars.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Neighbour-wars\obj\Debug\netcoreapp2.0\Neighbour-wars.csprojResolveAssemblyReference.cache

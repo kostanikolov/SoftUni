@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\bin\Debug\netcoreapp2.0\04. Baverage-labels.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\bin\Debug\netcoreapp2.0\04. Baverage-labels.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\bin\Debug\netcoreapp2.0\04. Baverage-labels.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\bin\Debug\netcoreapp2.0\04. Baverage-labels.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\bin\Debug\netcoreapp2.0\04. Baverage-labels.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\obj\Debug\netcoreapp2.0\04. Baverage-labels.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\obj\Debug\netcoreapp2.0\04. Baverage-labels.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\obj\Debug\netcoreapp2.0\04. Baverage-labels.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\obj\Debug\netcoreapp2.0\04. Baverage-labels.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\obj\Debug\netcoreapp2.0\04. Baverage-labels.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\04. Baverage-labels\obj\Debug\netcoreapp2.0\04. Baverage-labels.pdb

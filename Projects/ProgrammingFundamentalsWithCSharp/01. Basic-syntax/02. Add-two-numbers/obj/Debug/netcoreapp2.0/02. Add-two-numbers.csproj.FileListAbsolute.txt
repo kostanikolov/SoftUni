@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\bin\Debug\netcoreapp2.0\02. Add-two-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\bin\Debug\netcoreapp2.0\02. Add-two-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\bin\Debug\netcoreapp2.0\02. Add-two-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\bin\Debug\netcoreapp2.0\02. Add-two-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\bin\Debug\netcoreapp2.0\02. Add-two-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\obj\Debug\netcoreapp2.0\02. Add-two-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\obj\Debug\netcoreapp2.0\02. Add-two-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\obj\Debug\netcoreapp2.0\02. Add-two-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\obj\Debug\netcoreapp2.0\02. Add-two-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\obj\Debug\netcoreapp2.0\02. Add-two-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\02. Add-two-numbers\obj\Debug\netcoreapp2.0\02. Add-two-numbers.pdb

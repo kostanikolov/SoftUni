@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\bin\Debug\netcoreapp2.0\Practice-integer-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\bin\Debug\netcoreapp2.0\Practice-integer-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\bin\Debug\netcoreapp2.0\Practice-integer-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\bin\Debug\netcoreapp2.0\Practice-integer-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\bin\Debug\netcoreapp2.0\Practice-integer-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\obj\Debug\netcoreapp2.0\Practice-integer-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\obj\Debug\netcoreapp2.0\Practice-integer-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\obj\Debug\netcoreapp2.0\Practice-integer-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\obj\Debug\netcoreapp2.0\Practice-integer-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Practice-integer-numbers\obj\Debug\netcoreapp2.0\Practice-integer-numbers.pdb

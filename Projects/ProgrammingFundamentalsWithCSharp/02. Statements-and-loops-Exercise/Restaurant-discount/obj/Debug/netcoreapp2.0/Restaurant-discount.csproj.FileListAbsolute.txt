@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\bin\Debug\netcoreapp2.0\Restaurant-discount.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\bin\Debug\netcoreapp2.0\Restaurant-discount.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\bin\Debug\netcoreapp2.0\Restaurant-discount.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\bin\Debug\netcoreapp2.0\Restaurant-discount.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\bin\Debug\netcoreapp2.0\Restaurant-discount.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\obj\Debug\netcoreapp2.0\Restaurant-discount.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\obj\Debug\netcoreapp2.0\Restaurant-discount.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\obj\Debug\netcoreapp2.0\Restaurant-discount.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\obj\Debug\netcoreapp2.0\Restaurant-discount.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\obj\Debug\netcoreapp2.0\Restaurant-discount.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Restaurant-discount\obj\Debug\netcoreapp2.0\Restaurant-discount.csprojResolveAssemblyReference.cache

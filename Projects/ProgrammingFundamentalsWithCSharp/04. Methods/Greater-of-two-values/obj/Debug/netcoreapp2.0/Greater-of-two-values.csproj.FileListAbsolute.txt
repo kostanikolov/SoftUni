@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\bin\Debug\netcoreapp2.0\Greater-of-two-values.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\bin\Debug\netcoreapp2.0\Greater-of-two-values.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\bin\Debug\netcoreapp2.0\Greater-of-two-values.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\bin\Debug\netcoreapp2.0\Greater-of-two-values.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\bin\Debug\netcoreapp2.0\Greater-of-two-values.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\obj\Debug\netcoreapp2.0\Greater-of-two-values.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\obj\Debug\netcoreapp2.0\Greater-of-two-values.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\obj\Debug\netcoreapp2.0\Greater-of-two-values.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\obj\Debug\netcoreapp2.0\Greater-of-two-values.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\obj\Debug\netcoreapp2.0\Greater-of-two-values.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Greater-of-two-values\obj\Debug\netcoreapp2.0\Greater-of-two-values.pdb

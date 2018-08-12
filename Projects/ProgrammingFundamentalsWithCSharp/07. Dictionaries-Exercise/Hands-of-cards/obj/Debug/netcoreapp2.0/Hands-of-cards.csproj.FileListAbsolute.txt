@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\bin\Debug\netcoreapp2.0\Hands-of-cards.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\bin\Debug\netcoreapp2.0\Hands-of-cards.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\bin\Debug\netcoreapp2.0\Hands-of-cards.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\bin\Debug\netcoreapp2.0\Hands-of-cards.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\bin\Debug\netcoreapp2.0\Hands-of-cards.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\obj\Debug\netcoreapp2.0\Hands-of-cards.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\obj\Debug\netcoreapp2.0\Hands-of-cards.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\obj\Debug\netcoreapp2.0\Hands-of-cards.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\obj\Debug\netcoreapp2.0\Hands-of-cards.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\obj\Debug\netcoreapp2.0\Hands-of-cards.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Hands-of-cards\obj\Debug\netcoreapp2.0\Hands-of-cards.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\bin\Debug\netcoreapp2.0\10. Multiplication-table-2.0.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\bin\Debug\netcoreapp2.0\10. Multiplication-table-2.0.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\bin\Debug\netcoreapp2.0\10. Multiplication-table-2.0.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\bin\Debug\netcoreapp2.0\10. Multiplication-table-2.0.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\bin\Debug\netcoreapp2.0\10. Multiplication-table-2.0.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\obj\Debug\netcoreapp2.0\10. Multiplication-table-2.0.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\obj\Debug\netcoreapp2.0\10. Multiplication-table-2.0.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\obj\Debug\netcoreapp2.0\10. Multiplication-table-2.0.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\obj\Debug\netcoreapp2.0\10. Multiplication-table-2.0.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\obj\Debug\netcoreapp2.0\10. Multiplication-table-2.0.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\10. Multiplication-table-2.0\obj\Debug\netcoreapp2.0\10. Multiplication-table-2.0.pdb

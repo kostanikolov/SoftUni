@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\bin\Debug\netcoreapp2.0\Extract-middle-element.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\bin\Debug\netcoreapp2.0\Extract-middle-element.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\bin\Debug\netcoreapp2.0\Extract-middle-element.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\bin\Debug\netcoreapp2.0\Extract-middle-element.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\bin\Debug\netcoreapp2.0\Extract-middle-element.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\obj\Debug\netcoreapp2.0\Extract-middle-element.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\obj\Debug\netcoreapp2.0\Extract-middle-element.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\obj\Debug\netcoreapp2.0\Extract-middle-element.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\obj\Debug\netcoreapp2.0\Extract-middle-element.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\obj\Debug\netcoreapp2.0\Extract-middle-element.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Extract-middle-element\obj\Debug\netcoreapp2.0\Extract-middle-element.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\bin\Debug\netcoreapp2.0\Reverse-string.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\bin\Debug\netcoreapp2.0\Reverse-string.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\bin\Debug\netcoreapp2.0\Reverse-string.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\bin\Debug\netcoreapp2.0\Reverse-string.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\bin\Debug\netcoreapp2.0\Reverse-string.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\obj\Debug\netcoreapp2.0\Reverse-string.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\obj\Debug\netcoreapp2.0\Reverse-string.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\obj\Debug\netcoreapp2.0\Reverse-string.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\obj\Debug\netcoreapp2.0\Reverse-string.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\obj\Debug\netcoreapp2.0\Reverse-string.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-and-text-processing\Reverse-string\obj\Debug\netcoreapp2.0\Reverse-string.pdb

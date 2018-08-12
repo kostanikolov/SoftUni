@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\bin\Debug\netcoreapp2.0\Condense-array-to-number.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\bin\Debug\netcoreapp2.0\Condense-array-to-number.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\bin\Debug\netcoreapp2.0\Condense-array-to-number.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\bin\Debug\netcoreapp2.0\Condense-array-to-number.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\bin\Debug\netcoreapp2.0\Condense-array-to-number.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\obj\Debug\netcoreapp2.0\Condense-array-to-number.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\obj\Debug\netcoreapp2.0\Condense-array-to-number.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\obj\Debug\netcoreapp2.0\Condense-array-to-number.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\obj\Debug\netcoreapp2.0\Condense-array-to-number.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\obj\Debug\netcoreapp2.0\Condense-array-to-number.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Condense-array-to-number\obj\Debug\netcoreapp2.0\Condense-array-to-number.pdb

@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\bin\Debug\netcoreapp2.0\Exchange-variable-values.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\bin\Debug\netcoreapp2.0\Exchange-variable-values.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\bin\Debug\netcoreapp2.0\Exchange-variable-values.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\bin\Debug\netcoreapp2.0\Exchange-variable-values.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\bin\Debug\netcoreapp2.0\Exchange-variable-values.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\obj\Debug\netcoreapp2.0\Exchange-variable-values.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\obj\Debug\netcoreapp2.0\Exchange-variable-values.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\obj\Debug\netcoreapp2.0\Exchange-variable-values.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\obj\Debug\netcoreapp2.0\Exchange-variable-values.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Exchange-variable-values\obj\Debug\netcoreapp2.0\Exchange-variable-values.pdb

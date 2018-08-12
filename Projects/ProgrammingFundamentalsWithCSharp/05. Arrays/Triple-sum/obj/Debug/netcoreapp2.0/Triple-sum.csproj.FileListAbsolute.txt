@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\bin\Debug\netcoreapp2.0\Triple-sum.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\bin\Debug\netcoreapp2.0\Triple-sum.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\bin\Debug\netcoreapp2.0\Triple-sum.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\bin\Debug\netcoreapp2.0\Triple-sum.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\bin\Debug\netcoreapp2.0\Triple-sum.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\obj\Debug\netcoreapp2.0\Triple-sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\obj\Debug\netcoreapp2.0\Triple-sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\obj\Debug\netcoreapp2.0\Triple-sum.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\obj\Debug\netcoreapp2.0\Triple-sum.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\obj\Debug\netcoreapp2.0\Triple-sum.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Triple-sum\obj\Debug\netcoreapp2.0\Triple-sum.pdb

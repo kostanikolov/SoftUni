@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\bin\Debug\netcoreapp2.0\01. Greeting.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\bin\Debug\netcoreapp2.0\01. Greeting.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\bin\Debug\netcoreapp2.0\01. Greeting.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\bin\Debug\netcoreapp2.0\01. Greeting.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\bin\Debug\netcoreapp2.0\01. Greeting.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\obj\Debug\netcoreapp2.0\01. Greeting.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\obj\Debug\netcoreapp2.0\01. Greeting.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\obj\Debug\netcoreapp2.0\01. Greeting.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\obj\Debug\netcoreapp2.0\01. Greeting.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\obj\Debug\netcoreapp2.0\01. Greeting.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax\01. Greeting\obj\Debug\netcoreapp2.0\01. Greeting.pdb

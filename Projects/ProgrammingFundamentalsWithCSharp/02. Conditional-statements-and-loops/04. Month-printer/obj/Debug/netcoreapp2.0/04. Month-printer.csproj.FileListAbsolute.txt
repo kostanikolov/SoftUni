@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\bin\Debug\netcoreapp2.0\04. Month-printer.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\bin\Debug\netcoreapp2.0\04. Month-printer.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\bin\Debug\netcoreapp2.0\04. Month-printer.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\bin\Debug\netcoreapp2.0\04. Month-printer.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\bin\Debug\netcoreapp2.0\04. Month-printer.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\obj\Debug\netcoreapp2.0\04. Month-printer.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\obj\Debug\netcoreapp2.0\04. Month-printer.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\obj\Debug\netcoreapp2.0\04. Month-printer.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\obj\Debug\netcoreapp2.0\04. Month-printer.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\obj\Debug\netcoreapp2.0\04. Month-printer.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\04. Month-printer\obj\Debug\netcoreapp2.0\04. Month-printer.pdb

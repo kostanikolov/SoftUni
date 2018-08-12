@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\bin\Debug\netcoreapp2.0\Sum-arrays.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\bin\Debug\netcoreapp2.0\Sum-arrays.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\bin\Debug\netcoreapp2.0\Sum-arrays.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\bin\Debug\netcoreapp2.0\Sum-arrays.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\bin\Debug\netcoreapp2.0\Sum-arrays.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\obj\Debug\netcoreapp2.0\Sum-arrays.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\obj\Debug\netcoreapp2.0\Sum-arrays.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\obj\Debug\netcoreapp2.0\Sum-arrays.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\obj\Debug\netcoreapp2.0\Sum-arrays.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\obj\Debug\netcoreapp2.0\Sum-arrays.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Sum-arrays\obj\Debug\netcoreapp2.0\Sum-arrays.pdb

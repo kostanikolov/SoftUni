@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\bin\Debug\netcoreapp2.0\Reverse-array-of-strings.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\bin\Debug\netcoreapp2.0\Reverse-array-of-strings.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\bin\Debug\netcoreapp2.0\Reverse-array-of-strings.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\bin\Debug\netcoreapp2.0\Reverse-array-of-strings.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\bin\Debug\netcoreapp2.0\Reverse-array-of-strings.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\obj\Debug\netcoreapp2.0\Reverse-array-of-strings.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\obj\Debug\netcoreapp2.0\Reverse-array-of-strings.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\obj\Debug\netcoreapp2.0\Reverse-array-of-strings.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\obj\Debug\netcoreapp2.0\Reverse-array-of-strings.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\obj\Debug\netcoreapp2.0\Reverse-array-of-strings.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-strings\obj\Debug\netcoreapp2.0\Reverse-array-of-strings.pdb

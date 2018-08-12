@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\bin\Debug\netcoreapp2.0\Exact-sum-of-real-nums.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\bin\Debug\netcoreapp2.0\Exact-sum-of-real-nums.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\bin\Debug\netcoreapp2.0\Exact-sum-of-real-nums.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\bin\Debug\netcoreapp2.0\Exact-sum-of-real-nums.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\bin\Debug\netcoreapp2.0\Exact-sum-of-real-nums.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\obj\Debug\netcoreapp2.0\Exact-sum-of-real-nums.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\obj\Debug\netcoreapp2.0\Exact-sum-of-real-nums.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\obj\Debug\netcoreapp2.0\Exact-sum-of-real-nums.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\obj\Debug\netcoreapp2.0\Exact-sum-of-real-nums.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Exact-sum-of-real-nums\obj\Debug\netcoreapp2.0\Exact-sum-of-real-nums.pdb

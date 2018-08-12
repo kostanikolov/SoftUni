@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\bin\Debug\netcoreapp2.0\Magic-exchangeable-words.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\bin\Debug\netcoreapp2.0\Magic-exchangeable-words.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\bin\Debug\netcoreapp2.0\Magic-exchangeable-words.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\bin\Debug\netcoreapp2.0\Magic-exchangeable-words.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\bin\Debug\netcoreapp2.0\Magic-exchangeable-words.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\obj\Debug\netcoreapp2.0\Magic-exchangeable-words.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\obj\Debug\netcoreapp2.0\Magic-exchangeable-words.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\obj\Debug\netcoreapp2.0\Magic-exchangeable-words.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\obj\Debug\netcoreapp2.0\Magic-exchangeable-words.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\obj\Debug\netcoreapp2.0\Magic-exchangeable-words.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Magic-exchangeable-words\obj\Debug\netcoreapp2.0\Magic-exchangeable-words.pdb

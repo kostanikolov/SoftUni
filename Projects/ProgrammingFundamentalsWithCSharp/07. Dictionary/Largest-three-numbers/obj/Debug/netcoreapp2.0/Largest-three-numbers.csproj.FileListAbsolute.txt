@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\bin\Debug\netcoreapp2.0\Largest-three-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\bin\Debug\netcoreapp2.0\Largest-three-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\bin\Debug\netcoreapp2.0\Largest-three-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\bin\Debug\netcoreapp2.0\Largest-three-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\bin\Debug\netcoreapp2.0\Largest-three-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\obj\Debug\netcoreapp2.0\Largest-three-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\obj\Debug\netcoreapp2.0\Largest-three-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\obj\Debug\netcoreapp2.0\Largest-three-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\obj\Debug\netcoreapp2.0\Largest-three-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Largest-three-numbers\obj\Debug\netcoreapp2.0\Largest-three-numbers.pdb

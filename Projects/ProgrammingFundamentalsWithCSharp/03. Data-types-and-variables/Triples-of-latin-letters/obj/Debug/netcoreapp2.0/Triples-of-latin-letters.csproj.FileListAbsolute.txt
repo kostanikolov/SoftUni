@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\bin\Debug\netcoreapp2.0\Triples-of-latin-letters.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\bin\Debug\netcoreapp2.0\Triples-of-latin-letters.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\bin\Debug\netcoreapp2.0\Triples-of-latin-letters.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\bin\Debug\netcoreapp2.0\Triples-of-latin-letters.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\bin\Debug\netcoreapp2.0\Triples-of-latin-letters.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\obj\Debug\netcoreapp2.0\Triples-of-latin-letters.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\obj\Debug\netcoreapp2.0\Triples-of-latin-letters.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\obj\Debug\netcoreapp2.0\Triples-of-latin-letters.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\obj\Debug\netcoreapp2.0\Triples-of-latin-letters.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\obj\Debug\netcoreapp2.0\Triples-of-latin-letters.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Triples-of-latin-letters\obj\Debug\netcoreapp2.0\Triples-of-latin-letters.pdb

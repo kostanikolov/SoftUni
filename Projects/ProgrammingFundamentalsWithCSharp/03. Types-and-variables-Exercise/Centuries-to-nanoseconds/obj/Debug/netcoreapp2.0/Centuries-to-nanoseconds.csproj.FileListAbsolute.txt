@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-nanoseconds.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-nanoseconds.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-nanoseconds.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-nanoseconds.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-nanoseconds.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-nanoseconds.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-nanoseconds.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-nanoseconds.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-nanoseconds.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Centuries-to-nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-nanoseconds.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\bin\Debug\netcoreapp2.0\Print-ascii.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\bin\Debug\netcoreapp2.0\Print-ascii.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\bin\Debug\netcoreapp2.0\Print-ascii.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\bin\Debug\netcoreapp2.0\Print-ascii.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\bin\Debug\netcoreapp2.0\Print-ascii.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\obj\Debug\netcoreapp2.0\Print-ascii.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\obj\Debug\netcoreapp2.0\Print-ascii.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\obj\Debug\netcoreapp2.0\Print-ascii.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\obj\Debug\netcoreapp2.0\Print-ascii.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\obj\Debug\netcoreapp2.0\Print-ascii.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Print-ascii\obj\Debug\netcoreapp2.0\Print-ascii.pdb

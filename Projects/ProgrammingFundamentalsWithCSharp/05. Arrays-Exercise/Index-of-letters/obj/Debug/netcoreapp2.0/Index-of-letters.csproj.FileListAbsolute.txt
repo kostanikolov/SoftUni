@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\bin\Debug\netcoreapp2.0\Index-of-letters.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\bin\Debug\netcoreapp2.0\Index-of-letters.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\bin\Debug\netcoreapp2.0\Index-of-letters.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\bin\Debug\netcoreapp2.0\Index-of-letters.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\bin\Debug\netcoreapp2.0\Index-of-letters.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\obj\Debug\netcoreapp2.0\Index-of-letters.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\obj\Debug\netcoreapp2.0\Index-of-letters.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\obj\Debug\netcoreapp2.0\Index-of-letters.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\obj\Debug\netcoreapp2.0\Index-of-letters.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\obj\Debug\netcoreapp2.0\Index-of-letters.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Index-of-letters\obj\Debug\netcoreapp2.0\Index-of-letters.pdb

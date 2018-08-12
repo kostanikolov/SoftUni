@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\bin\Debug\netcoreapp2.0\Choose-a-drink2.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\bin\Debug\netcoreapp2.0\Choose-a-drink2.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\bin\Debug\netcoreapp2.0\Choose-a-drink2.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\bin\Debug\netcoreapp2.0\Choose-a-drink2.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\bin\Debug\netcoreapp2.0\Choose-a-drink2.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\obj\Debug\netcoreapp2.0\Choose-a-drink2.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\obj\Debug\netcoreapp2.0\Choose-a-drink2.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\obj\Debug\netcoreapp2.0\Choose-a-drink2.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\obj\Debug\netcoreapp2.0\Choose-a-drink2.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\obj\Debug\netcoreapp2.0\Choose-a-drink2.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Choose-a-drink2\obj\Debug\netcoreapp2.0\Choose-a-drink2.csprojResolveAssemblyReference.cache

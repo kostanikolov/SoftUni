@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\bin\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Max-sequence-of-increasing-elements\obj\Debug\netcoreapp2.0\Max-sequence-of-increasing-elements.pdb

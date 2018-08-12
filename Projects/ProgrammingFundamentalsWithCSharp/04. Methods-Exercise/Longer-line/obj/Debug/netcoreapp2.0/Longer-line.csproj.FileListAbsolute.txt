@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\bin\Debug\netcoreapp2.0\Longer-line.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\bin\Debug\netcoreapp2.0\Longer-line.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\bin\Debug\netcoreapp2.0\Longer-line.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\bin\Debug\netcoreapp2.0\Longer-line.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\bin\Debug\netcoreapp2.0\Longer-line.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\obj\Debug\netcoreapp2.0\Longer-line.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\obj\Debug\netcoreapp2.0\Longer-line.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\obj\Debug\netcoreapp2.0\Longer-line.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\obj\Debug\netcoreapp2.0\Longer-line.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\obj\Debug\netcoreapp2.0\Longer-line.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods-Exercise\Longer-line\obj\Debug\netcoreapp2.0\Longer-line.pdb

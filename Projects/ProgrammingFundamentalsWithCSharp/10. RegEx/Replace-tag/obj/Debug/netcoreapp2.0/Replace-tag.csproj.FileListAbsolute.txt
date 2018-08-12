@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\bin\Debug\netcoreapp2.0\Replace-tag.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\bin\Debug\netcoreapp2.0\Replace-tag.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\bin\Debug\netcoreapp2.0\Replace-tag.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\bin\Debug\netcoreapp2.0\Replace-tag.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\bin\Debug\netcoreapp2.0\Replace-tag.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\obj\Debug\netcoreapp2.0\Replace-tag.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\obj\Debug\netcoreapp2.0\Replace-tag.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\obj\Debug\netcoreapp2.0\Replace-tag.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\obj\Debug\netcoreapp2.0\Replace-tag.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\obj\Debug\netcoreapp2.0\Replace-tag.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Replace-tag\obj\Debug\netcoreapp2.0\Replace-tag.csprojResolveAssemblyReference.cache

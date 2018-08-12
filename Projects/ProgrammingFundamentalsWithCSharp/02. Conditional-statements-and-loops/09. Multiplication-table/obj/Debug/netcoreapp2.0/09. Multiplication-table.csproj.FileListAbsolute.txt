@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\bin\Debug\netcoreapp2.0\09. Multiplication-table.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\bin\Debug\netcoreapp2.0\09. Multiplication-table.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\bin\Debug\netcoreapp2.0\09. Multiplication-table.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\bin\Debug\netcoreapp2.0\09. Multiplication-table.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\bin\Debug\netcoreapp2.0\09. Multiplication-table.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\obj\Debug\netcoreapp2.0\09. Multiplication-table.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\obj\Debug\netcoreapp2.0\09. Multiplication-table.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\obj\Debug\netcoreapp2.0\09. Multiplication-table.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\obj\Debug\netcoreapp2.0\09. Multiplication-table.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\obj\Debug\netcoreapp2.0\09. Multiplication-table.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\09. Multiplication-table\obj\Debug\netcoreapp2.0\09. Multiplication-table.pdb

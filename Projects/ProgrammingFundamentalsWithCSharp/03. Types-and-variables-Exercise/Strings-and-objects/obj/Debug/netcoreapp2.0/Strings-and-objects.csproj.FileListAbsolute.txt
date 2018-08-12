@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\bin\Debug\netcoreapp2.0\Strings-and-objects.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\bin\Debug\netcoreapp2.0\Strings-and-objects.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\bin\Debug\netcoreapp2.0\Strings-and-objects.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\bin\Debug\netcoreapp2.0\Strings-and-objects.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\bin\Debug\netcoreapp2.0\Strings-and-objects.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\obj\Debug\netcoreapp2.0\Strings-and-objects.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\obj\Debug\netcoreapp2.0\Strings-and-objects.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\obj\Debug\netcoreapp2.0\Strings-and-objects.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\obj\Debug\netcoreapp2.0\Strings-and-objects.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Strings-and-objects\obj\Debug\netcoreapp2.0\Strings-and-objects.pdb

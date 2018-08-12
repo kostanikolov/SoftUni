@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\bin\Debug\netcoreapp2.0\A-miner-task.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\bin\Debug\netcoreapp2.0\A-miner-task.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\bin\Debug\netcoreapp2.0\A-miner-task.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\bin\Debug\netcoreapp2.0\A-miner-task.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\bin\Debug\netcoreapp2.0\A-miner-task.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\obj\Debug\netcoreapp2.0\A-miner-task.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\obj\Debug\netcoreapp2.0\A-miner-task.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\obj\Debug\netcoreapp2.0\A-miner-task.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\obj\Debug\netcoreapp2.0\A-miner-task.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\obj\Debug\netcoreapp2.0\A-miner-task.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\A-miner-task\obj\Debug\netcoreapp2.0\A-miner-task.pdb

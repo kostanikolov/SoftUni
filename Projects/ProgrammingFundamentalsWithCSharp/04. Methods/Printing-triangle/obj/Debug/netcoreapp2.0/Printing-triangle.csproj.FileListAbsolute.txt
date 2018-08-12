@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\bin\Debug\netcoreapp2.0\Printing-triangle.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\bin\Debug\netcoreapp2.0\Printing-triangle.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\bin\Debug\netcoreapp2.0\Printing-triangle.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\bin\Debug\netcoreapp2.0\Printing-triangle.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\bin\Debug\netcoreapp2.0\Printing-triangle.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\obj\Debug\netcoreapp2.0\Printing-triangle.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\obj\Debug\netcoreapp2.0\Printing-triangle.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\obj\Debug\netcoreapp2.0\Printing-triangle.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\obj\Debug\netcoreapp2.0\Printing-triangle.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\obj\Debug\netcoreapp2.0\Printing-triangle.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Printing-triangle\obj\Debug\netcoreapp2.0\Printing-triangle.pdb

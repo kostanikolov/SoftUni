@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\bin\Debug\netcoreapp2.0\Randomize-words.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\bin\Debug\netcoreapp2.0\Randomize-words.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\bin\Debug\netcoreapp2.0\Randomize-words.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\bin\Debug\netcoreapp2.0\Randomize-words.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\bin\Debug\netcoreapp2.0\Randomize-words.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\obj\Debug\netcoreapp2.0\Randomize-words.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\obj\Debug\netcoreapp2.0\Randomize-words.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\obj\Debug\netcoreapp2.0\Randomize-words.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\obj\Debug\netcoreapp2.0\Randomize-words.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\obj\Debug\netcoreapp2.0\Randomize-words.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Randomize-words\obj\Debug\netcoreapp2.0\Randomize-words.pdb

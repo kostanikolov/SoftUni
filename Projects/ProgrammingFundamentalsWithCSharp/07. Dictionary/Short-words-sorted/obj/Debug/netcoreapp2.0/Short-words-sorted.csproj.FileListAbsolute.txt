@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\bin\Debug\netcoreapp2.0\Short-words-sorted.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\bin\Debug\netcoreapp2.0\Short-words-sorted.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\bin\Debug\netcoreapp2.0\Short-words-sorted.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\bin\Debug\netcoreapp2.0\Short-words-sorted.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\bin\Debug\netcoreapp2.0\Short-words-sorted.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\obj\Debug\netcoreapp2.0\Short-words-sorted.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\obj\Debug\netcoreapp2.0\Short-words-sorted.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\obj\Debug\netcoreapp2.0\Short-words-sorted.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\obj\Debug\netcoreapp2.0\Short-words-sorted.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\obj\Debug\netcoreapp2.0\Short-words-sorted.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Short-words-sorted\obj\Debug\netcoreapp2.0\Short-words-sorted.pdb

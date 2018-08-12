@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\bin\Debug\netcoreapp2.0\Reverse-array-of-integers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\bin\Debug\netcoreapp2.0\Reverse-array-of-integers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\bin\Debug\netcoreapp2.0\Reverse-array-of-integers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\bin\Debug\netcoreapp2.0\Reverse-array-of-integers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\bin\Debug\netcoreapp2.0\Reverse-array-of-integers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\obj\Debug\netcoreapp2.0\Reverse-array-of-integers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\obj\Debug\netcoreapp2.0\Reverse-array-of-integers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\obj\Debug\netcoreapp2.0\Reverse-array-of-integers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\obj\Debug\netcoreapp2.0\Reverse-array-of-integers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\obj\Debug\netcoreapp2.0\Reverse-array-of-integers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays\Reverse-array-of-integers\obj\Debug\netcoreapp2.0\Reverse-array-of-integers.csprojResolveAssemblyReference.cache

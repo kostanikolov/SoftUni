@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\bin\Debug\netcoreapp2.0\Count-real-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\bin\Debug\netcoreapp2.0\Count-real-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\bin\Debug\netcoreapp2.0\Count-real-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\bin\Debug\netcoreapp2.0\Count-real-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\bin\Debug\netcoreapp2.0\Count-real-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\obj\Debug\netcoreapp2.0\Count-real-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\obj\Debug\netcoreapp2.0\Count-real-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\obj\Debug\netcoreapp2.0\Count-real-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\obj\Debug\netcoreapp2.0\Count-real-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Count-real-numbers\obj\Debug\netcoreapp2.0\Count-real-numbers.pdb

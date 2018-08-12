@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\bin\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\bin\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\bin\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\bin\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\bin\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\obj\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\obj\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\obj\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\obj\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\obj\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\05. Arrays-Exercise\Sieve-оf-еratosthenes\obj\Debug\netcoreapp2.0\Sieve-оf-еratosthenes.pdb

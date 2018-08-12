@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\bin\Debug\netcoreapp2.0\Append-lists.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\bin\Debug\netcoreapp2.0\Append-lists.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\bin\Debug\netcoreapp2.0\Append-lists.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\bin\Debug\netcoreapp2.0\Append-lists.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\bin\Debug\netcoreapp2.0\Append-lists.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\obj\Debug\netcoreapp2.0\Append-lists.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\obj\Debug\netcoreapp2.0\Append-lists.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\obj\Debug\netcoreapp2.0\Append-lists.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\obj\Debug\netcoreapp2.0\Append-lists.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\obj\Debug\netcoreapp2.0\Append-lists.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\06. Lists\Append-lists\obj\Debug\netcoreapp2.0\Append-lists.pdb

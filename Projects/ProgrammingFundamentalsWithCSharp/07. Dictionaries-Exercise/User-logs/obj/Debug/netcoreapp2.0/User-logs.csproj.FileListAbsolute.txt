@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\bin\Debug\netcoreapp2.0\User-logs.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\bin\Debug\netcoreapp2.0\User-logs.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\bin\Debug\netcoreapp2.0\User-logs.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\bin\Debug\netcoreapp2.0\User-logs.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\bin\Debug\netcoreapp2.0\User-logs.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\obj\Debug\netcoreapp2.0\User-logs.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\obj\Debug\netcoreapp2.0\User-logs.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\obj\Debug\netcoreapp2.0\User-logs.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\obj\Debug\netcoreapp2.0\User-logs.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\obj\Debug\netcoreapp2.0\User-logs.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\User-logs\obj\Debug\netcoreapp2.0\User-logs.pdb

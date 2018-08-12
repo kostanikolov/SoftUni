@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\bin\Debug\netcoreapp2.0\02. Passed-or-failed.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\bin\Debug\netcoreapp2.0\02. Passed-or-failed.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\bin\Debug\netcoreapp2.0\02. Passed-or-failed.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\bin\Debug\netcoreapp2.0\02. Passed-or-failed.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\bin\Debug\netcoreapp2.0\02. Passed-or-failed.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\obj\Debug\netcoreapp2.0\02. Passed-or-failed.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\obj\Debug\netcoreapp2.0\02. Passed-or-failed.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\obj\Debug\netcoreapp2.0\02. Passed-or-failed.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\obj\Debug\netcoreapp2.0\02. Passed-or-failed.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Conditional-statements-and-loops\02. Passed-or-failed\obj\Debug\netcoreapp2.0\02. Passed-or-failed.pdb

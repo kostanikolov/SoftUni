@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\bin\Debug\netcoreapp2.0\Blank-receipt.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\bin\Debug\netcoreapp2.0\Blank-receipt.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\bin\Debug\netcoreapp2.0\Blank-receipt.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\bin\Debug\netcoreapp2.0\Blank-receipt.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\bin\Debug\netcoreapp2.0\Blank-receipt.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\obj\Debug\netcoreapp2.0\Blank-receipt.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\obj\Debug\netcoreapp2.0\Blank-receipt.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\obj\Debug\netcoreapp2.0\Blank-receipt.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\obj\Debug\netcoreapp2.0\Blank-receipt.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\obj\Debug\netcoreapp2.0\Blank-receipt.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Blank-receipt\obj\Debug\netcoreapp2.0\Blank-receipt.pdb

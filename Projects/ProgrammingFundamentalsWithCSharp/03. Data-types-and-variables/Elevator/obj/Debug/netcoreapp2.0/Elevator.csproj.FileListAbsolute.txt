@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\bin\Debug\netcoreapp2.0\Elevator.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\bin\Debug\netcoreapp2.0\Elevator.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\bin\Debug\netcoreapp2.0\Elevator.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\obj\Debug\netcoreapp2.0\Elevator.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\obj\Debug\netcoreapp2.0\Elevator.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\obj\Debug\netcoreapp2.0\Elevator.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Elevator\obj\Debug\netcoreapp2.0\Elevator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\bin\Debug\netcoreapp2.0\Integer-to-hex-and-binary.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\bin\Debug\netcoreapp2.0\Integer-to-hex-and-binary.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\bin\Debug\netcoreapp2.0\Integer-to-hex-and-binary.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\bin\Debug\netcoreapp2.0\Integer-to-hex-and-binary.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\bin\Debug\netcoreapp2.0\Integer-to-hex-and-binary.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\obj\Debug\netcoreapp2.0\Integer-to-hex-and-binary.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\obj\Debug\netcoreapp2.0\Integer-to-hex-and-binary.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\obj\Debug\netcoreapp2.0\Integer-to-hex-and-binary.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\obj\Debug\netcoreapp2.0\Integer-to-hex-and-binary.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\obj\Debug\netcoreapp2.0\Integer-to-hex-and-binary.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Integer-to-hex-and-binary\obj\Debug\netcoreapp2.0\Integer-to-hex-and-binary.pdb

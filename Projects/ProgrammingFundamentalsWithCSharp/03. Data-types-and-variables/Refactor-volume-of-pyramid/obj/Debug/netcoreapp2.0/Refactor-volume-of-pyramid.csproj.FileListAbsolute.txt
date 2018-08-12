@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\bin\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\bin\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\bin\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\bin\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\bin\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\obj\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\obj\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\obj\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\obj\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\obj\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Data-types-and-variables\Refactor-volume-of-pyramid\obj\Debug\netcoreapp2.0\Refactor-volume-of-pyramid.pdb

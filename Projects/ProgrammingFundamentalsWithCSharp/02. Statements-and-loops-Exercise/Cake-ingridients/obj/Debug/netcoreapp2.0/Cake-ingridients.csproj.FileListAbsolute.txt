@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\bin\Debug\netcoreapp2.0\Cake-ingridients.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\bin\Debug\netcoreapp2.0\Cake-ingridients.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\bin\Debug\netcoreapp2.0\Cake-ingridients.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\bin\Debug\netcoreapp2.0\Cake-ingridients.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\bin\Debug\netcoreapp2.0\Cake-ingridients.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\obj\Debug\netcoreapp2.0\Cake-ingridients.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\obj\Debug\netcoreapp2.0\Cake-ingridients.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\obj\Debug\netcoreapp2.0\Cake-ingridients.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\obj\Debug\netcoreapp2.0\Cake-ingridients.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\obj\Debug\netcoreapp2.0\Cake-ingridients.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\02. Statements-and-loops-Exercise\Cake-ingridients\obj\Debug\netcoreapp2.0\Cake-ingridients.pdb

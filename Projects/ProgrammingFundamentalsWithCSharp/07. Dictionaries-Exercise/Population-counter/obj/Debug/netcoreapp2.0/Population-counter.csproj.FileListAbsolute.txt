@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\bin\Debug\netcoreapp2.0\Population-counter.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\bin\Debug\netcoreapp2.0\Population-counter.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\bin\Debug\netcoreapp2.0\Population-counter.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\bin\Debug\netcoreapp2.0\Population-counter.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\bin\Debug\netcoreapp2.0\Population-counter.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\obj\Debug\netcoreapp2.0\Population-counter.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\obj\Debug\netcoreapp2.0\Population-counter.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\obj\Debug\netcoreapp2.0\Population-counter.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\obj\Debug\netcoreapp2.0\Population-counter.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\obj\Debug\netcoreapp2.0\Population-counter.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Population-counter\obj\Debug\netcoreapp2.0\Population-counter.pdb

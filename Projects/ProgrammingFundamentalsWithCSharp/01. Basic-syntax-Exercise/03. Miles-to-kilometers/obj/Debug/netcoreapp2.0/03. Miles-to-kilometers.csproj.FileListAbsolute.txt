@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\bin\Debug\netcoreapp2.0\03. Miles-to-kilometers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\bin\Debug\netcoreapp2.0\03. Miles-to-kilometers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\bin\Debug\netcoreapp2.0\03. Miles-to-kilometers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\bin\Debug\netcoreapp2.0\03. Miles-to-kilometers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\bin\Debug\netcoreapp2.0\03. Miles-to-kilometers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\obj\Debug\netcoreapp2.0\03. Miles-to-kilometers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\obj\Debug\netcoreapp2.0\03. Miles-to-kilometers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\obj\Debug\netcoreapp2.0\03. Miles-to-kilometers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\obj\Debug\netcoreapp2.0\03. Miles-to-kilometers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\obj\Debug\netcoreapp2.0\03. Miles-to-kilometers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\01. Basic-syntax-Exercise\03. Miles-to-kilometers\obj\Debug\netcoreapp2.0\03. Miles-to-kilometers.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\bin\Debug\netcoreapp2.0\Different-integer-size.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\bin\Debug\netcoreapp2.0\Different-integer-size.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\bin\Debug\netcoreapp2.0\Different-integer-size.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\bin\Debug\netcoreapp2.0\Different-integer-size.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\bin\Debug\netcoreapp2.0\Different-integer-size.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\obj\Debug\netcoreapp2.0\Different-integer-size.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\obj\Debug\netcoreapp2.0\Different-integer-size.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\obj\Debug\netcoreapp2.0\Different-integer-size.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\obj\Debug\netcoreapp2.0\Different-integer-size.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\obj\Debug\netcoreapp2.0\Different-integer-size.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Different-integer-size\obj\Debug\netcoreapp2.0\Different-integer-size.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\bin\Debug\netcoreapp2.0\Calculate-triangle-area.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\bin\Debug\netcoreapp2.0\Calculate-triangle-area.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\bin\Debug\netcoreapp2.0\Calculate-triangle-area.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\bin\Debug\netcoreapp2.0\Calculate-triangle-area.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\bin\Debug\netcoreapp2.0\Calculate-triangle-area.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\obj\Debug\netcoreapp2.0\Calculate-triangle-area.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\obj\Debug\netcoreapp2.0\Calculate-triangle-area.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\obj\Debug\netcoreapp2.0\Calculate-triangle-area.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\obj\Debug\netcoreapp2.0\Calculate-triangle-area.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\obj\Debug\netcoreapp2.0\Calculate-triangle-area.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\04. Methods\Calculate-triangle-area\obj\Debug\netcoreapp2.0\Calculate-triangle-area.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\bin\Debug\netcoreapp2.0\Odd-occurrences.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\bin\Debug\netcoreapp2.0\Odd-occurrences.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\bin\Debug\netcoreapp2.0\Odd-occurrences.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\bin\Debug\netcoreapp2.0\Odd-occurrences.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\bin\Debug\netcoreapp2.0\Odd-occurrences.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\obj\Debug\netcoreapp2.0\Odd-occurrences.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\obj\Debug\netcoreapp2.0\Odd-occurrences.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\obj\Debug\netcoreapp2.0\Odd-occurrences.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\obj\Debug\netcoreapp2.0\Odd-occurrences.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\obj\Debug\netcoreapp2.0\Odd-occurrences.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionary\Odd-occurrences\obj\Debug\netcoreapp2.0\Odd-occurrences.csprojResolveAssemblyReference.cache

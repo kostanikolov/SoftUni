@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\bin\Debug\netcoreapp2.0\Match-a-full-name.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\bin\Debug\netcoreapp2.0\Match-a-full-name.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\bin\Debug\netcoreapp2.0\Match-a-full-name.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\bin\Debug\netcoreapp2.0\Match-a-full-name.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\bin\Debug\netcoreapp2.0\Match-a-full-name.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\obj\Debug\netcoreapp2.0\Match-a-full-name.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\obj\Debug\netcoreapp2.0\Match-a-full-name.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\obj\Debug\netcoreapp2.0\Match-a-full-name.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\obj\Debug\netcoreapp2.0\Match-a-full-name.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\obj\Debug\netcoreapp2.0\Match-a-full-name.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\10. RegEx\Match-a-full-name\obj\Debug\netcoreapp2.0\Match-a-full-name.pdb

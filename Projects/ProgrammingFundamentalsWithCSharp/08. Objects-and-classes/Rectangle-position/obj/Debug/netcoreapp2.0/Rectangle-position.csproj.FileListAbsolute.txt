@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\bin\Debug\netcoreapp2.0\Rectangle-position.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\bin\Debug\netcoreapp2.0\Rectangle-position.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\bin\Debug\netcoreapp2.0\Rectangle-position.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\bin\Debug\netcoreapp2.0\Rectangle-position.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\bin\Debug\netcoreapp2.0\Rectangle-position.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\obj\Debug\netcoreapp2.0\Rectangle-position.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\obj\Debug\netcoreapp2.0\Rectangle-position.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\obj\Debug\netcoreapp2.0\Rectangle-position.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\obj\Debug\netcoreapp2.0\Rectangle-position.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\obj\Debug\netcoreapp2.0\Rectangle-position.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\08. Objects-and-classes\Rectangle-position\obj\Debug\netcoreapp2.0\Rectangle-position.pdb

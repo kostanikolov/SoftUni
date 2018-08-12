@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\bin\Debug\netcoreapp2.0\Odd-lines.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\bin\Debug\netcoreapp2.0\Odd-lines.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\bin\Debug\netcoreapp2.0\Odd-lines.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\bin\Debug\netcoreapp2.0\Odd-lines.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\bin\Debug\netcoreapp2.0\Odd-lines.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\obj\Debug\netcoreapp2.0\Odd-lines.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\obj\Debug\netcoreapp2.0\Odd-lines.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\obj\Debug\netcoreapp2.0\Odd-lines.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\obj\Debug\netcoreapp2.0\Odd-lines.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\obj\Debug\netcoreapp2.0\Odd-lines.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\11. Files\Odd-lines\obj\Debug\netcoreapp2.0\Odd-lines.pdb

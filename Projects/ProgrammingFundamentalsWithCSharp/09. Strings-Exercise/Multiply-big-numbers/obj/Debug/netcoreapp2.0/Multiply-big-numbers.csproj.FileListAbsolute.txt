@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\bin\Debug\netcoreapp2.0\Multiply-big-numbers.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\bin\Debug\netcoreapp2.0\Multiply-big-numbers.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\bin\Debug\netcoreapp2.0\Multiply-big-numbers.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\bin\Debug\netcoreapp2.0\Multiply-big-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\bin\Debug\netcoreapp2.0\Multiply-big-numbers.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\obj\Debug\netcoreapp2.0\Multiply-big-numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\obj\Debug\netcoreapp2.0\Multiply-big-numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\obj\Debug\netcoreapp2.0\Multiply-big-numbers.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\obj\Debug\netcoreapp2.0\Multiply-big-numbers.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\obj\Debug\netcoreapp2.0\Multiply-big-numbers.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\09. Strings-Exercise\Multiply-big-numbers\obj\Debug\netcoreapp2.0\Multiply-big-numbers.pdb

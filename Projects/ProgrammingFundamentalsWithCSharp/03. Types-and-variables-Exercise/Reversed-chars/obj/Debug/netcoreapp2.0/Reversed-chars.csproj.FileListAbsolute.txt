@@ -1,0 +1,10 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\bin\Debug\netcoreapp2.0\Reversed-chars.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\bin\Debug\netcoreapp2.0\Reversed-chars.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\bin\Debug\netcoreapp2.0\Reversed-chars.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\bin\Debug\netcoreapp2.0\Reversed-chars.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\bin\Debug\netcoreapp2.0\Reversed-chars.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\obj\Debug\netcoreapp2.0\Reversed-chars.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\obj\Debug\netcoreapp2.0\Reversed-chars.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\obj\Debug\netcoreapp2.0\Reversed-chars.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\obj\Debug\netcoreapp2.0\Reversed-chars.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\03. Types-and-variables-Exercise\Reversed-chars\obj\Debug\netcoreapp2.0\Reversed-chars.pdb

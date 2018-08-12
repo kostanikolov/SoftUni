@@ -1,0 +1,11 @@
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\bin\Debug\netcoreapp2.0\Phonebook-upgrade.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\bin\Debug\netcoreapp2.0\Phonebook-upgrade.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\bin\Debug\netcoreapp2.0\Phonebook-upgrade.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\bin\Debug\netcoreapp2.0\Phonebook-upgrade.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\bin\Debug\netcoreapp2.0\Phonebook-upgrade.pdb
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\obj\Debug\netcoreapp2.0\Phonebook-upgrade.csprojResolveAssemblyReference.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\obj\Debug\netcoreapp2.0\Phonebook-upgrade.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\obj\Debug\netcoreapp2.0\Phonebook-upgrade.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\obj\Debug\netcoreapp2.0\Phonebook-upgrade.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\obj\Debug\netcoreapp2.0\Phonebook-upgrade.dll
+E:\SoftUni\2018-Jan-Tech-module\Programming Fundamentals\Projects\07. Dictionaries-Exercise\Phonebook-upgrade\obj\Debug\netcoreapp2.0\Phonebook-upgrade.pdb
