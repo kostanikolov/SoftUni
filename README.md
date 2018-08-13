@@ -15,3 +15,10 @@ This are the topics that we covered in my education @ SoftUni so far
 11. Files and exceptions
 
 # Software Technologies
+1. Git and GitHub
+2. HTTP and Database Basics
+3. HTML5 and CSS
+4. JavaScript: Basic syntax, ExpressJS with Sequelize
+5. PHP: Basic syntax, Symfony with Doctrine
+6. Java: Basic syntax, Spring with Hibernate
+7. C#: ASP.NET with Entity Framework
