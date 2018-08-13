@@ -22,3 +22,29 @@ This are the topics that we covered in my education @ SoftUni so far
 5. PHP: Basic syntax, Symfony with Doctrine
 6. Java: Basic syntax, Spring with Hibernate
 7. C#: ASP.NET with Entity Framework
+
+## Java Fundamentals
+**Java Advanced (May 2018)**
+1. Intro to Java
+2. Linear data structures
+3. Sets and Maps
+4. Input/Output, Files and Directories
+5. String processing
+6. Functional programming
+7. Built-in query methods - Stream API
+
+**Java Advanced (June 2018)**
+1. Intro to Java
+2. Linear data structures
+3. Sets and Maps
+4. Input/Output, Files and Directories
+5. String processing
+6. Functional programming
+7. Built-in query methods - Stream API
+
+
+
+
+
+
+
