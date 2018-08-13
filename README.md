@@ -33,18 +33,19 @@ This are the topics that we covered in my education @ SoftUni so far
 6. Functional programming
 7. Built-in query methods - Stream API
 
-**Java Advanced (June 2018)**
-1. Intro to Java
-2. Linear data structures
-3. Sets and Maps
-4. Input/Output, Files and Directories
-5. String processing
-6. Functional programming
-7. Built-in query methods - Stream API
+**Java OOP Basics (June 2018)**
+1. Defining classes
+2. Encapsulation
+3. Inheritance
+4. Polymorphism
+5. Interfaces and abstraction
 
-
-
-
-
-
-
+**Java OOP Advanced (July 2018)**
+1. Generics
+2. Iterators and comparator
+3. Enums and annotations
+4. Reflection
+5. Unit testing
+6. Open/Closed, Liskov substitution principles
+7. Interface segregation, dependancy inversion principles
+8. Object communication and events
