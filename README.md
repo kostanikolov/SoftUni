@@ -1,7 +1,7 @@
 This are the topics that we covered in my education @ SoftUni so far
 ===
 
-# Programming Fundamentals
+## Programming Fundamentals (January 2018)
 1. C# Intro and basics syntax
 2. C# Conditional statements and loops
 3. Data types and variables
@@ -14,7 +14,7 @@ This are the topics that we covered in my education @ SoftUni so far
 10. Regular expressions (RegEx)
 11. Files and exceptions
 
-# Software Technologies
+## Software Technologies (March 2018)
 1. Git and GitHub
 2. HTTP and Database Basics
 3. HTML5 and CSS
