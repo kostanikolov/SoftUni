@@ -1,29 +1,7 @@
 This are the topics that we covered in my education @ SoftUni so far
 ===
 
-## Programming Fundamentals (January 2018)
-1. C# Intro and basics syntax
-2. C# Conditional statements and loops
-3. Data types and variables
-4. Methods, debugging and troubleshooting code
-5. Arrays
-6. Lists
-7. Dictionaries, lambda expressions and LINQ
-8. Objects and classes
-9. Strings and text processing
-10. Regular expressions (RegEx)
-11. Files and exceptions
-
-## Software Technologies (March 2018)
-1. Git and GitHub
-2. HTTP and Database Basics
-3. HTML5 and CSS
-4. JavaScript: Basic syntax, ExpressJS with Sequelize
-5. PHP: Basic syntax, Symfony with Doctrine
-6. Java: Basic syntax, Spring with Hibernate
-7. C#: ASP.NET with Entity Framework
-
-## Java Fundamentals
+## Java Fundamentals (May - August)
 **Java Advanced (May 2018)**
 1. Intro to Java
 2. Linear data structures
@@ -49,3 +27,25 @@ This are the topics that we covered in my education @ SoftUni so far
 6. Open/Closed, Liskov substitution principles
 7. Interface segregation, dependancy inversion principles
 8. Object communication and events
+
+## Software Technologies (March 2018)
+1. Git and GitHub
+2. HTTP and Database Basics
+3. HTML5 and CSS
+4. JavaScript: Basic syntax, ExpressJS with Sequelize
+5. PHP: Basic syntax, Symfony with Doctrine
+6. Java: Basic syntax, Spring with Hibernate
+7. C#: ASP.NET with Entity Framework
+
+## Programming Fundamentals (January 2018)
+1. C# Intro and basics syntax
+2. C# Conditional statements and loops
+3. Data types and variables
+4. Methods, debugging and troubleshooting code
+5. Arrays
+6. Lists
+7. Dictionaries, lambda expressions and LINQ
+8. Objects and classes
+9. Strings and text processing
+10. Regular expressions (RegEx)
+11. Files and exceptions
