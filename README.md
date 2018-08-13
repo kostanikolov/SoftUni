@@ -1,7 +1,7 @@
-This are the topics that we covered in my education @ SoftUni so far
+Topics that we covered in my education @ SoftUni so far
 ===
 
-## Java Fundamentals (May - August)
+## Java Fundamentals (May - August 2018)
 **Java Advanced (May 2018)**
 1. Intro to Java
 2. Linear data structures
@@ -20,7 +20,7 @@ This are the topics that we covered in my education @ SoftUni so far
 
 **Java OOP Advanced (July 2018)**
 1. Generics
-2. Iterators and comparator
+2. Iterators and comparators
 3. Enums and annotations
 4. Reflection
 5. Unit testing
