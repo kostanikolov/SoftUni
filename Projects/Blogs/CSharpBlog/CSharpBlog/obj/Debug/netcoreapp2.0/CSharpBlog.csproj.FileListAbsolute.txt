@@ -1,0 +1,12 @@
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.deps.json
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.runtimeconfig.json
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.runtimeconfig.dev.json
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.dll
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.csproj.CoreCompileInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.AssemblyInfoInputs.cache
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.AssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.pdb
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.dll
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.pdb
+E:\SoftUni\2018-Jan-Tech-module\Software Technologies\Projects\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.csprojAssemblyReference.cache
