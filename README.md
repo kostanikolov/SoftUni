@@ -1,6 +1,16 @@
 Topics that we covered in my education @ SoftUni so far
 ===
 
+## Java Database Fundamentals
+**Database Basics - MySQL (September 2018)**
+1. Introduction to Databases, Data Definition and Datatypes
+2. Basic CRUD
+3. Built-in Functions
+4. Data Aggregation
+5. Table Relations
+6. Subqueries and Joins
+7. Database Programmability
+
 ## Java Fundamentals (May - August 2018)
 **Java Advanced (May 2018)**
 1. Intro to Java
