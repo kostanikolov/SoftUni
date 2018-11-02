@@ -11,7 +11,7 @@ Topics that we covered in my education @ SoftUni so far
 6. Subqueries and Joins
 7. Database Programmability
 
-**Database Basics - MySQL (October 2018)**
+**Hibernate & Spring Data (October 2018)**
 1. Java OOP Principles
 2. DB Apps Introduction
 3. Creating Custom ORM (Workshop)
